@@ -1,6 +1,6 @@
 package functionalinterfaceexample;
 
-public interface Interface1 {
+public interface FncInterfaceInhrtnc1 {
 
 	void getValues();
 }
